@@ -171,7 +171,7 @@ int main(int argc, char *argv[])
 	}
 
 	/* Create Application tasks */
-	os_task_create(sample_task, NULL, FALSE);
+	os_task_create(sample_task, "task", NULL, FALSE);
 
 	printf("System Initialization finished\n");
 

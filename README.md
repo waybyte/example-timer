@@ -1,4 +1,4 @@
-# Logicrom SDK - Timer API example
+# Logicrom OpenCPU SDK - Timer API example
 
 ## How to build
 
